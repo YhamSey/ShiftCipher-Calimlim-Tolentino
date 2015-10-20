@@ -1,0 +1,7 @@
+Shift Cipher Algorithm Quiz
+===========================
+How many shift would you want to use? 25
+Please enter a message to hit enter to encrypt it.
+hello
+Ciphered : gdkkn	
+Desciphered : hello
